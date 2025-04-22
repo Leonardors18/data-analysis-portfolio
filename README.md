@@ -18,31 +18,3 @@ Este repositório reúne projetos de análise de dados desenvolvidos com Python,
 | **Análise de Vendas de E-commerce** | Dashboard explorando comportamento de compras online. | Pandas, Plotly |
 | **Dados de Saúde Pública** | Exploração de dados de vacinação e hospitalização no Brasil. | Pandas, Matplotlib |
 
-## Como executar
-
-1. Clone este repositório:
-```bash
-git clone https://github.com/seuusuario/nome-do-repositorio.git
-
-2. Instale as dependências:
-
-pip install -r requirements.txt
-
-3. Acesse os notebooks ou execute os dashboards Streamlit:
-
-streamlit run projeto_x/app.py
-
-Estrutura do repositório
-
-nome-do-repositorio/
-│
-├── projeto_pix/
-│   ├── pix_analysis.ipynb
-│   ├── dados/
-│   └── app.py
-├── projeto_ecommerce/
-│   └── ecommerce_dashboard.ipynb
-├── projeto_saude/
-│   └── saude_analise.ipynb
-├── requirements.txt
-└── README.md
