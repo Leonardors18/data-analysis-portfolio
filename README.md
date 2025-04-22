@@ -1,4 +1,4 @@
-# Portfólio de Análises de Dados com Python
+# Portfólio de Análises de Dados
 
 Este repositório reúne projetos de análise de dados desenvolvidos com Python, voltados para exploração de dados reais, geração de insights e visualizações informativas. Os projetos aqui apresentados demonstram habilidades em limpeza de dados, análise exploratória, visualização e storytelling com dados.
 
